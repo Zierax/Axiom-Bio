@@ -1,0 +1,18 @@
+{
+  "name": "Cro Repressor",
+  "length": 66,
+  "is_ordered": true,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.99,
+  "tci_raw": 0.6747,
+  "bonus": 1.1044,
+  "d_score": 0.8596,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5836,
+  "g2_score": 0.8386,
+  "g3_score": 0.5157,
+  "g4_score": 0.7881,
+  "g5_score": 0.5486,
+  "af3_plddt": 82.5,
+  "latency_ms": 100.91
+}

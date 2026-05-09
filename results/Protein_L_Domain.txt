@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Protein L Domain
+Length: 63 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5856
+G2 (Energy):        0.8875
+G3 (Structural):    0.4647
+G4 (IDP):           0.8063
+G5 (H-Bond):        0.4435
+
+--- Performance ---
+Latency: 117.3 ms
+Determinism score: 0.7392

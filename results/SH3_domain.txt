@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: SH3 domain
+Length: 62 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9652
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5403
+G2 (Energy):        0.6368
+G3 (Structural):    0.4472
+G4 (IDP):           0.6994
+G5 (H-Bond):        0.6363
+
+--- Performance ---
+Latency: 94.5 ms
+Determinism score: 0.7453

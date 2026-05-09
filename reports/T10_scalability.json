@@ -1,0 +1,7 @@
+{
+  "test": "T10 \u2014 Scalability",
+  "power_law_a": 2.1023,
+  "power_law_b": 0.9705,
+  "r_squared": 0,
+  "predicted_ms_at_129": 234.94
+}

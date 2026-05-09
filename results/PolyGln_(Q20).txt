@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: PolyGln (Q20)
+Length: 20 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2002
+Verdict: REJECT
+Best hypothesis: alpha_helix
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6879
+G2 (Energy):        0.1695
+G3 (Structural):    0.2727
+G4 (IDP):           0.4500
+G5 (H-Bond):        0.3500
+
+--- Performance ---
+Latency: 30.2 ms
+Determinism score: 0.2225

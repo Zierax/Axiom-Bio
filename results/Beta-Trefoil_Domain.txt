@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Beta-Trefoil Domain
+Length: 113 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.7973
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5630
+G2 (Energy):        0.6709
+G3 (Structural):    0.4523
+G4 (IDP):           0.6150
+G5 (H-Bond):        0.7009
+
+--- Performance ---
+Latency: 323.3 ms
+Determinism score: 0.7539

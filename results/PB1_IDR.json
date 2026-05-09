@@ -1,0 +1,18 @@
+{
+  "name": "PB1 IDR",
+  "length": 85,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.047,
+  "tci_raw": 0.0321,
+  "bonus": 1.0162,
+  "d_score": 0.0218,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4033,
+  "g2_score": 0.2282,
+  "g3_score": 0.1892,
+  "g4_score": 0.0131,
+  "g5_score": 0.0166,
+  "af3_plddt": 34.3,
+  "latency_ms": 133.58
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hnRNPA1 LCD",
+  "length": 63,
+  "is_ordered": false,
+  "verdict": "WEAK",
+  "tci": 0.256,
+  "tci_raw": 0.2929,
+  "bonus": 1.2178,
+  "d_score": 0.2844,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4952,
+  "g2_score": 0.3821,
+  "g3_score": 0.4615,
+  "g4_score": 0.3528,
+  "g5_score": 0.5417,
+  "af3_plddt": 36.3,
+  "latency_ms": 110.32
+}

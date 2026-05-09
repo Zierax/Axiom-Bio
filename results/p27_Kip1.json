@@ -1,0 +1,18 @@
+{
+  "name": "p27 Kip1",
+  "length": 155,
+  "is_ordered": false,
+  "verdict": "PROBABLE",
+  "tci": 0.7079,
+  "tci_raw": 0.517,
+  "bonus": 1.2146,
+  "d_score": 0.758,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5645,
+  "g2_score": 0.6787,
+  "g3_score": 0.4548,
+  "g4_score": 0.5479,
+  "g5_score": 0.6597,
+  "af3_plddt": 45.2,
+  "latency_ms": 218.76
+}

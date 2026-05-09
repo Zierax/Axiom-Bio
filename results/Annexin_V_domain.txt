@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Annexin V domain
+Length: 67 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.8951
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6772
+G2 (Energy):        0.9352
+G3 (Structural):    0.5345
+G4 (IDP):           0.8889
+G5 (H-Bond):        0.6749
+
+--- Performance ---
+Latency: 101.5 ms
+Determinism score: 0.8908

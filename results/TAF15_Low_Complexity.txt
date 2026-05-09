@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: TAF15 Low Complexity
+Length: 82 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2056
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4905
+G2 (Energy):        0.2614
+G3 (Structural):    0.3524
+G4 (IDP):           0.4668
+G5 (H-Bond):        0.5302
+
+--- Performance ---
+Latency: 136.3 ms
+Determinism score: 0.2285

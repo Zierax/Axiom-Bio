@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: FF Domain 1
+Length: 73 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2689
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5268
+G2 (Energy):        0.4184
+G3 (Structural):    0.4309
+G4 (IDP):           0.4538
+G5 (H-Bond):        0.6776
+
+--- Performance ---
+Latency: 101.5 ms
+Determinism score: 0.2988

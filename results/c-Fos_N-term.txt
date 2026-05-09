@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: c-Fos N-term
+Length: 77 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6146
+G2 (Energy):        0.6611
+G3 (Structural):    0.4498
+G4 (IDP):           0.7890
+G5 (H-Bond):        0.6003
+
+--- Performance ---
+Latency: 104.3 ms
+Determinism score: 0.7497

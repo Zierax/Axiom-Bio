@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: PLC Domain
+Length: 97 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5312
+G2 (Energy):        0.8071
+G3 (Structural):    0.4654
+G4 (IDP):           0.7673
+G5 (H-Bond):        0.5849
+
+--- Performance ---
+Latency: 316.6 ms
+Determinism score: 0.7756

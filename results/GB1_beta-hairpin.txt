@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: GB1 beta-hairpin
+Length: 16 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.8829
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6303
+G2 (Energy):        0.6748
+G3 (Structural):    0.5074
+G4 (IDP):           0.7804
+G5 (H-Bond):        0.5015
+
+--- Performance ---
+Latency: 24.7 ms
+Determinism score: 0.8359

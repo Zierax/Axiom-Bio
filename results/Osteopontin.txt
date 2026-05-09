@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Osteopontin
+Length: 283 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5786
+G2 (Energy):        0.5054
+G3 (Structural):    0.4741
+G4 (IDP):           0.7787
+G5 (H-Bond):        0.6805
+
+--- Performance ---
+Latency: 397.6 ms
+Determinism score: 0.7902

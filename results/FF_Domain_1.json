@@ -1,0 +1,18 @@
+{
+  "name": "FF Domain 1",
+  "length": 73,
+  "is_ordered": true,
+  "verdict": "WEAK",
+  "tci": 0.2689,
+  "tci_raw": 0.3882,
+  "bonus": 1.142,
+  "d_score": 0.2988,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5268,
+  "g2_score": 0.4184,
+  "g3_score": 0.4309,
+  "g4_score": 0.4538,
+  "g5_score": 0.6776,
+  "af3_plddt": 83.4,
+  "latency_ms": 101.54
+}

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Nup98 FG Repeat
+Length: 88 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1592
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4717
+G2 (Energy):        0.6066
+G3 (Structural):    0.3544
+G4 (IDP):           0.3927
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 150.8 ms
+Determinism score: 0.0277

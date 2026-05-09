@@ -1,0 +1,8 @@
+{
+  "test": "T6 \u2014 Inference Latency",
+  "mean_latency_ms": 173.35,
+  "scaling_exponent": 0.9705,
+  "throughput_seq_per_s": 15.7,
+  "residue_rate": 555.8,
+  "speedup_vs_af3": "10000-100000x"
+}

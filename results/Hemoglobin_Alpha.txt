@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Hemoglobin Alpha
+Length: 141 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9684
+Verdict: PROBABLE
+Best hypothesis: alpha_helix
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6138
+G2 (Energy):        0.9139
+G3 (Structural):    0.4795
+G4 (IDP):           0.8379
+G5 (H-Bond):        0.6030
+
+--- Performance ---
+Latency: 344.8 ms
+Determinism score: 0.7992

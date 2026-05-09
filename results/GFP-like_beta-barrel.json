@@ -1,0 +1,18 @@
+{
+  "name": "GFP-like beta-barrel",
+  "length": 238,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.9467,
+  "tci_raw": 0.7072,
+  "bonus": 1.1367,
+  "d_score": 0.8267,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5711,
+  "g2_score": 0.843,
+  "g3_score": 0.496,
+  "g4_score": 0.8088,
+  "g5_score": 0.6334,
+  "af3_plddt": 92.3,
+  "latency_ms": 349.06
+}

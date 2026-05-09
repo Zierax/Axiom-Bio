@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Barnase
+Length: 110 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9566
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5587
+G2 (Energy):        0.8226
+G3 (Structural):    0.4639
+G4 (IDP):           0.8509
+G5 (H-Bond):        0.6504
+
+--- Performance ---
+Latency: 253.3 ms
+Determinism score: 0.7731

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Cyclophilin A
+Length: 165 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.8654
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5436
+G2 (Energy):        0.8793
+G3 (Structural):    0.4544
+G4 (IDP):           0.6299
+G5 (H-Bond):        0.6937
+
+--- Performance ---
+Latency: 507.6 ms
+Determinism score: 0.7573

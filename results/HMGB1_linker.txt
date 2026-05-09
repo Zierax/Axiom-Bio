@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: HMGB1 linker
+Length: 57 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2625
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5476
+G2 (Energy):        0.3938
+G3 (Structural):    0.5018
+G4 (IDP):           0.3435
+G5 (H-Bond):        0.7140
+
+--- Performance ---
+Latency: 104.0 ms
+Determinism score: 0.2917

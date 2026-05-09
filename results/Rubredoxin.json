@@ -1,0 +1,18 @@
+{
+  "name": "Rubredoxin",
+  "length": 54,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6465,
+  "bonus": 1.1787,
+  "d_score": 0.7801,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5684,
+  "g2_score": 0.7099,
+  "g3_score": 0.468,
+  "g4_score": 0.7142,
+  "g5_score": 0.6361,
+  "af3_plddt": 88.1,
+  "latency_ms": 79.11
+}

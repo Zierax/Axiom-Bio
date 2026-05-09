@@ -1,0 +1,18 @@
+{
+  "name": "Beta-Trefoil Domain",
+  "length": 113,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.7973,
+  "tci_raw": 0.5562,
+  "bonus": 1.1638,
+  "d_score": 0.7539,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.563,
+  "g2_score": 0.6709,
+  "g3_score": 0.4523,
+  "g4_score": 0.615,
+  "g5_score": 0.7009,
+  "af3_plddt": 79.8,
+  "latency_ms": 323.34
+}

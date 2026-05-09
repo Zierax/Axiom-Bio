@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: ERD14 Dehydrin
+Length: 89 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2388
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5241
+G2 (Energy):        0.3137
+G3 (Structural):    0.6011
+G4 (IDP):           0.3621
+G5 (H-Bond):        0.7695
+
+--- Performance ---
+Latency: 149.5 ms
+Determinism score: 0.2654

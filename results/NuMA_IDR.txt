@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: NuMA IDR
+Length: 84 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2208
+Verdict: REJECT
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5844
+G2 (Energy):        0.3828
+G3 (Structural):    0.3938
+G4 (IDP):           0.4657
+G5 (H-Bond):        0.4544
+
+--- Performance ---
+Latency: 118.6 ms
+Determinism score: 0.2453

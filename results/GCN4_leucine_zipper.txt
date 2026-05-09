@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: GCN4 leucine zipper
+Length: 32 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9738
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6013
+G2 (Energy):        0.7552
+G3 (Structural):    0.5698
+G4 (IDP):           0.7064
+G5 (H-Bond):        0.5366
+
+--- Performance ---
+Latency: 46.4 ms
+Determinism score: 0.8943

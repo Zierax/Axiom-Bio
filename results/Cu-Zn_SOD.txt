@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Cu-Zn SOD
+Length: 160 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2579
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5350
+G2 (Energy):        0.6811
+G3 (Structural):    0.4446
+G4 (IDP):           0.3080
+G5 (H-Bond):        0.6699
+
+--- Performance ---
+Latency: 319.4 ms
+Determinism score: 0.2865

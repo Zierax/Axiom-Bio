@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: EK helix peptide
+Length: 21 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9843
+Verdict: PROBABLE
+Best hypothesis: alpha_helix
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.7291
+G2 (Energy):        0.9225
+G3 (Structural):    0.4748
+G4 (IDP):           0.6701
+G5 (H-Bond):        0.3500
+
+--- Performance ---
+Latency: 28.9 ms
+Determinism score: 0.5833

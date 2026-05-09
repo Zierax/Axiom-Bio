@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Rubredoxin
+Length: 54 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5684
+G2 (Energy):        0.7099
+G3 (Structural):    0.4680
+G4 (IDP):           0.7142
+G5 (H-Bond):        0.6361
+
+--- Performance ---
+Latency: 79.1 ms
+Determinism score: 0.7801

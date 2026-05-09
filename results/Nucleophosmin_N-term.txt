@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Nucleophosmin N-term
+Length: 294 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5352
+G2 (Energy):        0.6851
+G3 (Structural):    0.5040
+G4 (IDP):           0.7059
+G5 (H-Bond):        0.7219
+
+--- Performance ---
+Latency: 364.8 ms
+Determinism score: 0.8400

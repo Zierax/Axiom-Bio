@@ -1,0 +1,18 @@
+{
+  "name": "GCN4 leucine zipper",
+  "length": 32,
+  "is_ordered": true,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.9738,
+  "tci_raw": 0.6197,
+  "bonus": 1.1228,
+  "d_score": 0.8943,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.6013,
+  "g2_score": 0.7552,
+  "g3_score": 0.5698,
+  "g4_score": 0.7064,
+  "g5_score": 0.5366,
+  "af3_plddt": 92.8,
+  "latency_ms": 46.43
+}

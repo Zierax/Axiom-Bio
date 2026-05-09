@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: hnRNPA1 LCD
+Length: 63 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2560
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4952
+G2 (Energy):        0.3821
+G3 (Structural):    0.4615
+G4 (IDP):           0.3528
+G5 (H-Bond):        0.5417
+
+--- Performance ---
+Latency: 110.3 ms
+Determinism score: 0.2844

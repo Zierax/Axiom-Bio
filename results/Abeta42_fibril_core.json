@@ -1,0 +1,18 @@
+{
+  "name": "Abeta42 fibril core",
+  "length": 27,
+  "is_ordered": true,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.9417,
+  "tci_raw": 0.6024,
+  "bonus": 1.0843,
+  "d_score": 0.9694,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.6337,
+  "g2_score": 0.9845,
+  "g3_score": 0.5889,
+  "g4_score": 0.6111,
+  "g5_score": 0.5816,
+  "af3_plddt": 63.2,
+  "latency_ms": 38.39
+}

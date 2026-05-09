@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: c-Jun N-term
+Length: 120 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.9898
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5877
+G2 (Energy):        0.6627
+G3 (Structural):    0.4782
+G4 (IDP):           0.7375
+G5 (H-Bond):        0.6317
+
+--- Performance ---
+Latency: 151.8 ms
+Determinism score: 0.7971

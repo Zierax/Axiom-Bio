@@ -1,0 +1,18 @@
+{
+  "name": "alpha-Synuclein N-term",
+  "length": 43,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.2331,
+  "tci_raw": 0.4496,
+  "bonus": 1.0722,
+  "d_score": 0.259,
+  "best_hypothesis": "alpha_helix",
+  "g1_score": 0.5681,
+  "g2_score": 0.8963,
+  "g3_score": 0.4919,
+  "g4_score": 0.4493,
+  "g5_score": 0.4721,
+  "af3_plddt": 71.3,
+  "latency_ms": 58.43
+}

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Calmodulin
+Length: 147 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9571
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5576
+G2 (Energy):        0.8127
+G3 (Structural):    0.5033
+G4 (IDP):           0.8058
+G5 (H-Bond):        0.6791
+
+--- Performance ---
+Latency: 197.7 ms
+Determinism score: 0.8389

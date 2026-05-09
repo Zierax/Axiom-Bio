@@ -1,0 +1,18 @@
+{
+  "name": "Scenoprotein",
+  "length": 80,
+  "is_ordered": true,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.99,
+  "tci_raw": 0.6704,
+  "bonus": 1.1322,
+  "d_score": 0.8617,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5636,
+  "g2_score": 0.7491,
+  "g3_score": 0.517,
+  "g4_score": 0.7945,
+  "g5_score": 0.5617,
+  "af3_plddt": 83.7,
+  "latency_ms": 166.91
+}

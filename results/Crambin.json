@@ -1,0 +1,18 @@
+{
+  "name": "Crambin",
+  "length": 46,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.7296,
+  "tci_raw": 0.5262,
+  "bonus": 1.1198,
+  "d_score": 0.8107,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.6309,
+  "g2_score": 0.8149,
+  "g3_score": 0.5076,
+  "g4_score": 0.5786,
+  "g5_score": 0.5856,
+  "af3_plddt": 87.3,
+  "latency_ms": 65.7
+}

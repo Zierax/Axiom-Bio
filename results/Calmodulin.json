@@ -1,0 +1,18 @@
+{
+  "name": "Calmodulin",
+  "length": 147,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.9571,
+  "tci_raw": 0.7188,
+  "bonus": 1.1404,
+  "d_score": 0.8389,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5576,
+  "g2_score": 0.8127,
+  "g3_score": 0.5033,
+  "g4_score": 0.8058,
+  "g5_score": 0.6791,
+  "af3_plddt": 90.2,
+  "latency_ms": 197.74
+}

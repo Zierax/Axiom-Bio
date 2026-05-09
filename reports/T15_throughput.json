@@ -1,0 +1,9 @@
+{
+  "test": "T15 \u2014 Batch Throughput",
+  "n_sequences": 500,
+  "total_residues": 17650,
+  "elapsed_s": 31.755,
+  "throughput_seq_per_s": 15.7,
+  "residue_rate": 555.8,
+  "avg_ms_per_seq": 63.51
+}

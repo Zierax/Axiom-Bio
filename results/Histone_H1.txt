@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Histone H1
+Length: 206 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1893
+Verdict: REJECT
+Best hypothesis: alpha_helix
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5870
+G2 (Energy):        0.7380
+G3 (Structural):    0.4807
+G4 (IDP):           0.3322
+G5 (H-Bond):        0.6816
+
+--- Performance ---
+Latency: 270.8 ms
+Determinism score: 0.2104

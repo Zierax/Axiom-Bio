@@ -1,0 +1,18 @@
+{
+  "name": "Alpha-casein",
+  "length": 199,
+  "is_ordered": false,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.9605,
+  "tci_raw": 0.7228,
+  "bonus": 1.1637,
+  "d_score": 0.8733,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.585,
+  "g2_score": 0.7043,
+  "g3_score": 0.524,
+  "g4_score": 0.7981,
+  "g5_score": 0.706,
+  "af3_plddt": 35.2,
+  "latency_ms": 253.85
+}

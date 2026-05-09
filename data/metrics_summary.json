@@ -1,0 +1,22 @@
+{
+  "auroc_axbio": 0.83,
+  "auroc_af3": 0.9992,
+  "best_f1": 0.8119,
+  "best_f1_threshold": 0.2626,
+  "mcc": 0.581,
+  "ece_axbio": 0.0881,
+  "ece_af3": 0.251,
+  "ss_class_acc": 0.64,
+  "idp_precision_axbio": 0.7736,
+  "idp_precision_af3": 0.9608,
+  "idp_recall_axbio": 0.82,
+  "idp_recall_af3": 0.98,
+  "mean_latency_ms": 343.52,
+  "tci_auroc": 0.83,
+  "af3_plddt_auroc": 0.9992,
+  "ece": 0.0881,
+  "ss_class_accuracy": 0.64,
+  "idp_precision": 0.7736,
+  "idp_recall": 0.82,
+  "phipsi_rmsd": 79
+}

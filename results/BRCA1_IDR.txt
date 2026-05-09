@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: BRCA1 IDR
+Length: 88 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0390
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.3584
+G2 (Energy):        0.1187
+G3 (Structural):    0.3823
+G4 (IDP):           0.3795
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 153.6 ms
+Determinism score: 0.0277

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Calpastatin Domain 1
+Length: 88 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1828
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5349
+G2 (Energy):        0.2650
+G3 (Structural):    0.4118
+G4 (IDP):           0.2391
+G5 (H-Bond):        0.5530
+
+--- Performance ---
+Latency: 162.3 ms
+Determinism score: 0.2031

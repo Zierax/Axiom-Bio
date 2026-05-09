@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Villin HP36
+Length: 35 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: alpha_helix
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5905
+G2 (Energy):        0.7039
+G3 (Structural):    0.5105
+G4 (IDP):           0.8121
+G5 (H-Bond):        0.5092
+
+--- Performance ---
+Latency: 62.7 ms
+Determinism score: 0.8486

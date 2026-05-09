@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: EWS RBD Region
+Length: 82 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2212
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4962
+G2 (Energy):        0.2536
+G3 (Structural):    0.3446
+G4 (IDP):           0.4633
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 148.9 ms
+Determinism score: 0.0277

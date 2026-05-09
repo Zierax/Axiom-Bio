@@ -1,0 +1,18 @@
+{
+  "name": "Protein G B1",
+  "length": 56,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6383,
+  "bonus": 1.0831,
+  "d_score": 0.7978,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.6086,
+  "g2_score": 0.7621,
+  "g3_score": 0.4787,
+  "g4_score": 0.7592,
+  "g5_score": 0.5753,
+  "af3_plddt": 84.7,
+  "latency_ms": 72.99
+}

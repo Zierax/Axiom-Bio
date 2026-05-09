@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Cytochrome C
+Length: 103 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.7515
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5393
+G2 (Energy):        0.7195
+G3 (Structural):    0.4676
+G4 (IDP):           0.5859
+G5 (H-Bond):        0.6644
+
+--- Performance ---
+Latency: 138.0 ms
+Determinism score: 0.7794

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: NCBD Region
+Length: 81 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0664
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.2177
+G2 (Energy):        0.1066
+G3 (Structural):    0.3651
+G4 (IDP):           0.1192
+G5 (H-Bond):        0.2796
+
+--- Performance ---
+Latency: 127.8 ms
+Determinism score: 0.0738

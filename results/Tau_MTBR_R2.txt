@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Tau MTBR R2
+Length: 46 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2094
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5318
+G2 (Energy):        0.7213
+G3 (Structural):    0.5069
+G4 (IDP):           0.4112
+G5 (H-Bond):        0.5196
+
+--- Performance ---
+Latency: 74.0 ms
+Determinism score: 0.2326

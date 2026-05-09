@@ -1,0 +1,18 @@
+{
+  "name": "T4 Lysozyme",
+  "length": 164,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.9577,
+  "tci_raw": 0.7196,
+  "bonus": 1.0996,
+  "d_score": 0.8185,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5931,
+  "g2_score": 0.8565,
+  "g3_score": 0.4911,
+  "g4_score": 0.8728,
+  "g5_score": 0.533,
+  "af3_plddt": 94.2,
+  "latency_ms": 293.36
+}

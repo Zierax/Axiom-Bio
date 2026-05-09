@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: EF-Ts Fragment
+Length: 91 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2088
+Verdict: REJECT
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6153
+G2 (Energy):        0.7730
+G3 (Structural):    0.5024
+G4 (IDP):           0.4354
+G5 (H-Bond):        0.6099
+
+--- Performance ---
+Latency: 197.1 ms
+Determinism score: 0.2320

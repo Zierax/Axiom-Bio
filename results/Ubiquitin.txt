@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Ubiquitin
+Length: 76 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.8589
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5664
+G2 (Energy):        0.6996
+G3 (Structural):    0.5060
+G4 (IDP):           0.6661
+G5 (H-Bond):        0.6187
+
+--- Performance ---
+Latency: 114.6 ms
+Determinism score: 0.8434

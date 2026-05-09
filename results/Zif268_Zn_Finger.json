@@ -1,0 +1,18 @@
+{
+  "name": "Zif268 Zn Finger",
+  "length": 56,
+  "is_ordered": true,
+  "verdict": "REJECT",
+  "tci": 0.1977,
+  "tci_raw": 0.4158,
+  "bonus": 1.2091,
+  "d_score": 0.2197,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5276,
+  "g2_score": 0.3937,
+  "g3_score": 0.4451,
+  "g4_score": 0.5293,
+  "g5_score": 0.653,
+  "af3_plddt": 84.9,
+  "latency_ms": 78.12
+}

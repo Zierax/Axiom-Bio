@@ -1,0 +1,18 @@
+{
+  "name": "Chignolin",
+  "length": 10,
+  "is_ordered": true,
+  "verdict": "REJECT",
+  "tci": 0.1929,
+  "tci_raw": 0.3332,
+  "bonus": 1.2149,
+  "d_score": 0.2144,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.484,
+  "g2_score": 0.2935,
+  "g3_score": 0.4485,
+  "g4_score": 0.5254,
+  "g5_score": 0.3884,
+  "af3_plddt": 68.5,
+  "latency_ms": 18.82
+}

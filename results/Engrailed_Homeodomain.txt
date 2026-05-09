@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Engrailed Homeodomain
+Length: 58 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9481
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5536
+G2 (Energy):        0.7778
+G3 (Structural):    0.5135
+G4 (IDP):           0.8815
+G5 (H-Bond):        0.6391
+
+--- Performance ---
+Latency: 88.1 ms
+Determinism score: 0.8558

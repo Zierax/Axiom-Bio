@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: p53 TAD
+Length: 44 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1888
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4258
+G2 (Energy):        0.5888
+G3 (Structural):    0.4824
+G4 (IDP):           0.6827
+G5 (H-Bond):        0.4980
+
+--- Performance ---
+Latency: 59.4 ms
+Determinism score: 0.2097

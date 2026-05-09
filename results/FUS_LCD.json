@@ -1,0 +1,18 @@
+{
+  "name": "FUS LCD",
+  "length": 38,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1883,
+  "tci_raw": 0.2498,
+  "bonus": 1.1551,
+  "d_score": 0.0277,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5074,
+  "g2_score": 0.2882,
+  "g3_score": 0.2947,
+  "g4_score": 0.3565,
+  "g5_score": 0.0166,
+  "af3_plddt": 40.2,
+  "latency_ms": 53.62
+}

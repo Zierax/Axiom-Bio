@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Minicollagen
+Length: 49 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.0759
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5274
+G2 (Energy):        0.1139
+G3 (Structural):    0.2468
+G4 (IDP):           0.0206
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 69.1 ms
+Determinism score: 0.0277

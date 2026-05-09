@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: TDP-43 LCD
+Length: 83 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2589
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4858
+G2 (Energy):        0.4248
+G3 (Structural):    0.4239
+G4 (IDP):           0.5139
+G5 (H-Bond):        0.4078
+
+--- Performance ---
+Latency: 164.2 ms
+Determinism score: 0.2877

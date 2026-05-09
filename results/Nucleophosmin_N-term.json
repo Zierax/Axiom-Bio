@@ -1,0 +1,18 @@
+{
+  "name": "Nucleophosmin N-term",
+  "length": 294,
+  "is_ordered": false,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6652,
+  "bonus": 1.2022,
+  "d_score": 0.84,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5352,
+  "g2_score": 0.6851,
+  "g3_score": 0.504,
+  "g4_score": 0.7059,
+  "g5_score": 0.7219,
+  "af3_plddt": 43.5,
+  "latency_ms": 364.84
+}

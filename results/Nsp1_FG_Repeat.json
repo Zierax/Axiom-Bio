@@ -1,0 +1,18 @@
+{
+  "name": "Nsp1 FG Repeat",
+  "length": 78,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1444,
+  "tci_raw": 0.2143,
+  "bonus": 1.1587,
+  "d_score": 0.0277,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.44,
+  "g2_score": 0.3864,
+  "g3_score": 0.2887,
+  "g4_score": 0.3342,
+  "g5_score": 0.0166,
+  "af3_plddt": 29.4,
+  "latency_ms": 143.2
+}

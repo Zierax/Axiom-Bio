@@ -1,0 +1,47 @@
+{
+  "test": "T13 \u2014 Gate Correlation",
+  "gate_aurocs": {
+    "G1_RAMACHANDRAN": 0.7378,
+    "G2_ENERGY": 0.8214,
+    "G3_MDL": 0.7186,
+    "G4_IDP": 0.8416,
+    "G5_HBOND": 0.6432
+  },
+  "correlation_matrix": {
+    "G1_RAMACHANDRAN": {
+      "G1_RAMACHANDRAN": 1.0,
+      "G2_ENERGY": 0.583,
+      "G3_MDL": 0.5588,
+      "G4_IDP": 0.5968,
+      "G5_HBOND": 0.4984
+    },
+    "G2_ENERGY": {
+      "G1_RAMACHANDRAN": 0.583,
+      "G2_ENERGY": 1.0,
+      "G3_MDL": 0.6362,
+      "G4_IDP": 0.7838,
+      "G5_HBOND": 0.4552
+    },
+    "G3_MDL": {
+      "G1_RAMACHANDRAN": 0.5588,
+      "G2_ENERGY": 0.6362,
+      "G3_MDL": 1.0,
+      "G4_IDP": 0.6372,
+      "G5_HBOND": 0.7752
+    },
+    "G4_IDP": {
+      "G1_RAMACHANDRAN": 0.5968,
+      "G2_ENERGY": 0.7838,
+      "G3_MDL": 0.6372,
+      "G4_IDP": 1.0,
+      "G5_HBOND": 0.4589
+    },
+    "G5_HBOND": {
+      "G1_RAMACHANDRAN": 0.4984,
+      "G2_ENERGY": 0.4552,
+      "G3_MDL": 0.7752,
+      "G4_IDP": 0.4589,
+      "G5_HBOND": 1.0
+    }
+  }
+}

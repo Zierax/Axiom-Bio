@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: MeV NTAIL
+Length: 43 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2223
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5126
+G2 (Energy):        0.5423
+G3 (Structural):    0.4332
+G4 (IDP):           0.5119
+G5 (H-Bond):        0.5447
+
+--- Performance ---
+Latency: 60.0 ms
+Determinism score: 0.2470

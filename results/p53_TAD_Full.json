@@ -1,0 +1,18 @@
+{
+  "name": "p53 TAD Full",
+  "length": 126,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.21,
+  "tci_raw": 0.4276,
+  "bonus": 1.161,
+  "d_score": 0.2333,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5804,
+  "g2_score": 0.5658,
+  "g3_score": 0.4406,
+  "g4_score": 0.4898,
+  "g5_score": 0.6589,
+  "af3_plddt": 44.3,
+  "latency_ms": 266.36
+}

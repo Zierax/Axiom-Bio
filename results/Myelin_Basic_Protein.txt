@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Myelin Basic Protein
+Length: 170 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1836
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5493
+G2 (Energy):        0.4872
+G3 (Structural):    0.4298
+G4 (IDP):           0.4539
+G5 (H-Bond):        0.6299
+
+--- Performance ---
+Latency: 453.2 ms
+Determinism score: 0.2040

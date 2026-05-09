@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Ataxin-2 IDR
+Length: 105 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0556
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.3045
+G2 (Energy):        0.2066
+G3 (Structural):    0.3717
+G4 (IDP):           0.0305
+G5 (H-Bond):        0.5270
+
+--- Performance ---
+Latency: 152.2 ms
+Determinism score: 0.0508

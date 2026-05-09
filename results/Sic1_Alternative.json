@@ -1,0 +1,18 @@
+{
+  "name": "Sic1 Alternative",
+  "length": 77,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.0518,
+  "tci_raw": 0.0437,
+  "bonus": 1.1063,
+  "d_score": 0.0277,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.302,
+  "g2_score": 0.1266,
+  "g3_score": 0.2736,
+  "g4_score": 0.1109,
+  "g5_score": 0.0166,
+  "af3_plddt": 33.1,
+  "latency_ms": 134.96
+}

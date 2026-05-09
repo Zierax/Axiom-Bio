@@ -1,0 +1,18 @@
+{
+  "name": "Nup116 FG Region",
+  "length": 78,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1353,
+  "tci_raw": 0.2058,
+  "bonus": 1.1532,
+  "d_score": 0.0277,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4342,
+  "g2_score": 0.372,
+  "g3_score": 0.2785,
+  "g4_score": 0.3262,
+  "g5_score": 0.0166,
+  "af3_plddt": 30.2,
+  "latency_ms": 147.84
+}

@@ -1,0 +1,13 @@
+{
+  "test": "T11 \u2014 Calibration Bootstrap",
+  "T_mean": 0.1248,
+  "T_std": 0.0366,
+  "T_ci_low": 0.07,
+  "T_ci_high": 0.2,
+  "shift_mean": 0.4783,
+  "shift_std": 0.041,
+  "shift_ci_low": 0.3571,
+  "shift_ci_high": 0.5286,
+  "ece_mean": 0.0739,
+  "ece_std": 0.0195
+}

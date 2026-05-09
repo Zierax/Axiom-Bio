@@ -1,0 +1,18 @@
+{
+  "name": "c-Myc TAD",
+  "length": 240,
+  "is_ordered": false,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6952,
+  "bonus": 1.1463,
+  "d_score": 0.7801,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5813,
+  "g2_score": 0.7183,
+  "g3_score": 0.468,
+  "g4_score": 0.7832,
+  "g5_score": 0.7355,
+  "af3_plddt": 40.1,
+  "latency_ms": 406.58
+}

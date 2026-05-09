@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: MAP2 Projection
+Length: 89 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2122
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5477
+G2 (Energy):        0.3111
+G3 (Structural):    0.4272
+G4 (IDP):           0.2960
+G5 (H-Bond):        0.5161
+
+--- Performance ---
+Latency: 442.5 ms
+Determinism score: 0.2358

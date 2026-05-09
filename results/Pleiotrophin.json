@@ -1,0 +1,18 @@
+{
+  "name": "Pleiotrophin",
+  "length": 123,
+  "is_ordered": true,
+  "verdict": "REJECT",
+  "tci": 0.1973,
+  "tci_raw": 0.3367,
+  "bonus": 1.2813,
+  "d_score": 0.2192,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5246,
+  "g2_score": 0.2663,
+  "g3_score": 0.5059,
+  "g4_score": 0.2931,
+  "g5_score": 0.876,
+  "af3_plddt": 75.6,
+  "latency_ms": 279.53
+}

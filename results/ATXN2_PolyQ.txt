@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: ATXN2 PolyQ
+Length: 86 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0389
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.3672
+G2 (Energy):        0.1225
+G3 (Structural):    0.4478
+G4 (IDP):           0.1000
+G5 (H-Bond):        0.7719
+
+--- Performance ---
+Latency: 147.3 ms
+Determinism score: 0.0433

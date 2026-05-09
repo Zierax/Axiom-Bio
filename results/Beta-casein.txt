@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Beta-casein
+Length: 209 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2482
+Verdict: REJECT
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5962
+G2 (Energy):        0.6753
+G3 (Structural):    0.4925
+G4 (IDP):           0.5263
+G5 (H-Bond):        0.6175
+
+--- Performance ---
+Latency: 277.9 ms
+Determinism score: 0.2758

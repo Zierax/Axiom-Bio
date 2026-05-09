@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Abeta42 fibril core
+Length: 27 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9417
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6337
+G2 (Energy):        0.9845
+G3 (Structural):    0.5889
+G4 (IDP):           0.6111
+G5 (H-Bond):        0.5816
+
+--- Performance ---
+Latency: 38.4 ms
+Determinism score: 0.9694

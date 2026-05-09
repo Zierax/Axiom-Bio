@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: CheY Chemotaxis
+Length: 128 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9695
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.6008
+G2 (Energy):        0.9059
+G3 (Structural):    0.4948
+G4 (IDP):           0.8448
+G5 (H-Bond):        0.5982
+
+--- Performance ---
+Latency: 192.2 ms
+Determinism score: 0.8247

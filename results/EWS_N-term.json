@@ -1,0 +1,18 @@
+{
+  "name": "EWS N-term",
+  "length": 86,
+  "is_ordered": false,
+  "verdict": "WEAK",
+  "tci": 0.2629,
+  "tci_raw": 0.3842,
+  "bonus": 1.2809,
+  "d_score": 0.2921,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5005,
+  "g2_score": 0.4344,
+  "g3_score": 0.3451,
+  "g4_score": 0.4928,
+  "g5_score": 0.5682,
+  "af3_plddt": 32.3,
+  "latency_ms": 161.62
+}

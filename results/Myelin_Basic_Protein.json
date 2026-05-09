@@ -1,0 +1,18 @@
+{
+  "name": "Myelin Basic Protein",
+  "length": 170,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1836,
+  "tci_raw": 0.4017,
+  "bonus": 1.1603,
+  "d_score": 0.204,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5493,
+  "g2_score": 0.4872,
+  "g3_score": 0.4298,
+  "g4_score": 0.4539,
+  "g5_score": 0.6299,
+  "af3_plddt": 36.8,
+  "latency_ms": 453.24
+}

@@ -1,0 +1,8 @@
+{
+  "test": "T7 \u2014 Determinism",
+  "tci_identical_fraction": 1.0,
+  "max_tci_diff": 0.0,
+  "n_comparisons": 0,
+  "n_discrepancies": 0,
+  "deterministic": true
+}

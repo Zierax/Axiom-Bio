@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: HhaI MTase fragment
+Length: 45 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2422
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5346
+G2 (Energy):        0.4138
+G3 (Structural):    0.4767
+G4 (IDP):           0.5967
+G5 (H-Bond):        0.6366
+
+--- Performance ---
+Latency: 64.1 ms
+Determinism score: 0.2691

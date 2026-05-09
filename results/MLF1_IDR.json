@@ -1,0 +1,18 @@
+{
+  "name": "MLF1 IDR",
+  "length": 87,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1717,
+  "tci_raw": 0.3154,
+  "bonus": 1.2814,
+  "d_score": 0.1907,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4276,
+  "g2_score": 0.7314,
+  "g3_score": 0.4698,
+  "g4_score": 0.2505,
+  "g5_score": 0.7252,
+  "af3_plddt": 39.8,
+  "latency_ms": 158.45
+}

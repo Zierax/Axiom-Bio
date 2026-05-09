@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Nup214 FG Repeat
+Length: 84 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2548
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.3568
+G2 (Energy):        0.7314
+G3 (Structural):    0.2614
+G4 (IDP):           0.3547
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 156.4 ms
+Determinism score: 0.0277

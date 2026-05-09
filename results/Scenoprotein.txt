@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Scenoprotein
+Length: 80 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5636
+G2 (Energy):        0.7491
+G3 (Structural):    0.5170
+G4 (IDP):           0.7945
+G5 (H-Bond):        0.5617
+
+--- Performance ---
+Latency: 166.9 ms
+Determinism score: 0.8617

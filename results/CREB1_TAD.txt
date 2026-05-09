@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: CREB1 TAD
+Length: 102 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.8845
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5415
+G2 (Energy):        0.6734
+G3 (Structural):    0.4786
+G4 (IDP):           0.6550
+G5 (H-Bond):        0.6029
+
+--- Performance ---
+Latency: 136.2 ms
+Determinism score: 0.7977

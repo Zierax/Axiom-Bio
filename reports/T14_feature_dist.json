@@ -1,0 +1,74 @@
+{
+  "test": "T14 \u2014 Feature Distributions",
+  "features": {
+    "G4_IDP_score": {
+      "description": "Gate 4 IDP score (high=ordered)",
+      "ordered": {
+        "mean": 0.6759,
+        "std": 0.1825,
+        "min": 0.0206,
+        "max": 0.8889
+      },
+      "idp": {
+        "mean": 0.3978,
+        "std": 0.2056,
+        "min": 0.0131,
+        "max": 0.7981
+      },
+      "separation": 0.2781,
+      "overlap_ratio": 0.04,
+      "ordered_mean": 0.6759,
+      "ordered_std": 0.1825,
+      "idp_mean": 0.3978,
+      "idp_std": 0.2056,
+      "ordered_values": [],
+      "idp_values": []
+    },
+    "G1_RAMA_score": {
+      "description": "Gate 1 Ramachandran score",
+      "ordered": {
+        "mean": 0.573,
+        "std": 0.0419,
+        "min": 0.484,
+        "max": 0.7291
+      },
+      "idp": {
+        "mean": 0.4989,
+        "std": 0.101,
+        "min": 0.2177,
+        "max": 0.6879
+      },
+      "separation": 0.0742,
+      "overlap_ratio": 0.02,
+      "ordered_mean": 0.573,
+      "ordered_std": 0.0419,
+      "idp_mean": 0.4989,
+      "idp_std": 0.101,
+      "ordered_values": [],
+      "idp_values": []
+    },
+    "TCI": {
+      "description": "Calibrated TCI",
+      "ordered": {
+        "mean": 0.7666,
+        "std": 0.3154,
+        "min": 0.0759,
+        "max": 0.99
+      },
+      "idp": {
+        "mean": 0.3017,
+        "std": 0.2969,
+        "min": 0.0316,
+        "max": 0.99
+      },
+      "separation": 0.4649,
+      "overlap_ratio": 0.05,
+      "ordered_mean": 0.7666,
+      "ordered_std": 0.3154,
+      "idp_mean": 0.3017,
+      "idp_std": 0.2969,
+      "ordered_values": [],
+      "idp_values": []
+    }
+  }
+}

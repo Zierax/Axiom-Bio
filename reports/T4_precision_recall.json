@@ -1,0 +1,13 @@
+{
+  "test": "T4 \u2014 IDP Precision and Recall",
+  "idp_precision_axbio": 0.7736,
+  "idp_recall_axbio": 0.82,
+  "idp_precision_af3": 0.96,
+  "idp_recall_af3": 0.98,
+  "confusion_matrix": {
+    "tp": 41,
+    "fp": 12,
+    "fn": 9,
+    "tn": 38
+  }
+}

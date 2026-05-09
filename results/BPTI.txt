@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: BPTI
+Length: 58 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9731
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5610
+G2 (Energy):        0.9632
+G3 (Structural):    0.4529
+G4 (IDP):           0.6746
+G5 (H-Bond):        0.5576
+
+--- Performance ---
+Latency: 84.3 ms
+Determinism score: 0.7548

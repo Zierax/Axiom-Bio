@@ -1,0 +1,18 @@
+{
+  "name": "CspA Cold Shock",
+  "length": 61,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.8597,
+  "tci_raw": 0.5866,
+  "bonus": 1.1916,
+  "d_score": 0.8081,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5245,
+  "g2_score": 0.6315,
+  "g3_score": 0.4849,
+  "g4_score": 0.6904,
+  "g5_score": 0.5913,
+  "af3_plddt": 89.7,
+  "latency_ms": 101.96
+}

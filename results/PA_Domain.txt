@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: PA Domain
+Length: 99 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.1876
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5664
+G2 (Energy):        0.3000
+G3 (Structural):    0.3643
+G4 (IDP):           0.2405
+G5 (H-Bond):        0.5661
+
+--- Performance ---
+Latency: 242.4 ms
+Determinism score: 0.2085

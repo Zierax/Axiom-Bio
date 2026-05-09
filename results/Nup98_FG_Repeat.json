@@ -1,0 +1,18 @@
+{
+  "name": "Nup98 FG Repeat",
+  "length": 88,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1592,
+  "tci_raw": 0.2272,
+  "bonus": 1.0265,
+  "d_score": 0.0277,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4717,
+  "g2_score": 0.6066,
+  "g3_score": 0.3544,
+  "g4_score": 0.3927,
+  "g5_score": 0.0166,
+  "af3_plddt": 29.8,
+  "latency_ms": 150.76
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Plastocyanin",
+  "length": 95,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6598,
+  "bonus": 1.1148,
+  "d_score": 0.8132,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5764,
+  "g2_score": 0.8319,
+  "g3_score": 0.4879,
+  "g4_score": 0.7916,
+  "g5_score": 0.5546,
+  "af3_plddt": 87.5,
+  "latency_ms": 139.86
+}

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: EWS N-term
+Length: 86 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2629
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5005
+G2 (Energy):        0.4344
+G3 (Structural):    0.3451
+G4 (IDP):           0.4928
+G5 (H-Bond):        0.5682
+
+--- Performance ---
+Latency: 161.6 ms
+Determinism score: 0.2921

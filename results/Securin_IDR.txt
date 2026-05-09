@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Securin IDR
+Length: 82 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0553
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4057
+G2 (Energy):        0.2462
+G3 (Structural):    0.2116
+G4 (IDP):           0.0218
+G5 (H-Bond):        0.3072
+
+--- Performance ---
+Latency: 122.9 ms
+Determinism score: 0.0364

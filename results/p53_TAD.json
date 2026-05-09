@@ -1,0 +1,18 @@
+{
+  "name": "p53 TAD",
+  "length": 44,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.1888,
+  "tci_raw": 0.4069,
+  "bonus": 1.0177,
+  "d_score": 0.2097,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4258,
+  "g2_score": 0.5888,
+  "g3_score": 0.4824,
+  "g4_score": 0.6827,
+  "g5_score": 0.498,
+  "af3_plddt": 55.8,
+  "latency_ms": 59.43
+}

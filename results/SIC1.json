@@ -1,0 +1,18 @@
+{
+  "name": "SIC1",
+  "length": 211,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.2026,
+  "tci_raw": 0.3409,
+  "bonus": 1.2241,
+  "d_score": 0.2251,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5911,
+  "g2_score": 0.4316,
+  "g3_score": 0.5532,
+  "g4_score": 0.3886,
+  "g5_score": 0.5802,
+  "af3_plddt": 32.4,
+  "latency_ms": 292.28
+}

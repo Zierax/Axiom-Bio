@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: CspA Cold Shock
+Length: 61 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.8597
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5245
+G2 (Energy):        0.6315
+G3 (Structural):    0.4849
+G4 (IDP):           0.6904
+G5 (H-Bond):        0.5913
+
+--- Performance ---
+Latency: 102.0 ms
+Determinism score: 0.8081

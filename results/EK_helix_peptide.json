@@ -1,0 +1,18 @@
+{
+  "name": "EK helix peptide",
+  "length": 21,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.9843,
+  "tci_raw": 0.6257,
+  "bonus": 1.0922,
+  "d_score": 0.5833,
+  "best_hypothesis": "alpha_helix",
+  "g1_score": 0.7291,
+  "g2_score": 0.9225,
+  "g3_score": 0.4748,
+  "g4_score": 0.6701,
+  "g5_score": 0.35,
+  "af3_plddt": 82.1,
+  "latency_ms": 28.91
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Cu-Zn SOD",
+  "length": 160,
+  "is_ordered": true,
+  "verdict": "WEAK",
+  "tci": 0.2579,
+  "tci_raw": 0.3808,
+  "bonus": 1.346,
+  "d_score": 0.2865,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.535,
+  "g2_score": 0.6811,
+  "g3_score": 0.4446,
+  "g4_score": 0.308,
+  "g5_score": 0.6699,
+  "af3_plddt": 90.3,
+  "latency_ms": 319.43
+}

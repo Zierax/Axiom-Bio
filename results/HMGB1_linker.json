@@ -1,0 +1,18 @@
+{
+  "name": "HMGB1 linker",
+  "length": 57,
+  "is_ordered": false,
+  "verdict": "WEAK",
+  "tci": 0.2625,
+  "tci_raw": 0.384,
+  "bonus": 1.2615,
+  "d_score": 0.2917,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5476,
+  "g2_score": 0.3938,
+  "g3_score": 0.5018,
+  "g4_score": 0.3435,
+  "g5_score": 0.714,
+  "af3_plddt": 49.7,
+  "latency_ms": 103.96
+}

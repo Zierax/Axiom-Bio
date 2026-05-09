@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Tau Repeat R3
+Length: 48 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2521
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5101
+G2 (Energy):        0.4873
+G3 (Structural):    0.4817
+G4 (IDP):           0.3564
+G5 (H-Bond):        0.5554
+
+--- Performance ---
+Latency: 140.7 ms
+Determinism score: 0.2801

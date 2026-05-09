@@ -1,0 +1,18 @@
+{
+  "name": "TAF15 Low Complexity",
+  "length": 82,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.2056,
+  "tci_raw": 0.3432,
+  "bonus": 1.2749,
+  "d_score": 0.2285,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4905,
+  "g2_score": 0.2614,
+  "g3_score": 0.3524,
+  "g4_score": 0.4668,
+  "g5_score": 0.5302,
+  "af3_plddt": 33.5,
+  "latency_ms": 136.33
+}

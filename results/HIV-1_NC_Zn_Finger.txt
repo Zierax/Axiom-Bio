@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: HIV-1 NC Zn Finger
+Length: 52 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2854
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5102
+G2 (Energy):        0.4478
+G3 (Structural):    0.4535
+G4 (IDP):           0.6064
+G5 (H-Bond):        0.6625
+
+--- Performance ---
+Latency: 143.1 ms
+Determinism score: 0.3172

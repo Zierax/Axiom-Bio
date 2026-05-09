@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: p27 Kip1
+Length: 155 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.7079
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5645
+G2 (Energy):        0.6787
+G3 (Structural):    0.4548
+G4 (IDP):           0.5479
+G5 (H-Bond):        0.6597
+
+--- Performance ---
+Latency: 218.8 ms
+Determinism score: 0.7580

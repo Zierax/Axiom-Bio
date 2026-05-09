@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Thioredoxin
+Length: 108 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9544
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5939
+G2 (Energy):        0.9288
+G3 (Structural):    0.4991
+G4 (IDP):           0.7983
+G5 (H-Bond):        0.5965
+
+--- Performance ---
+Latency: 274.3 ms
+Determinism score: 0.8319

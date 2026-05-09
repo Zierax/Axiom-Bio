@@ -1,0 +1,18 @@
+{
+  "name": "Neurofilament M tail",
+  "length": 89,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.176,
+  "tci_raw": 0.3192,
+  "bonus": 1.2905,
+  "d_score": 0.1956,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5837,
+  "g2_score": 0.3024,
+  "g3_score": 0.5111,
+  "g4_score": 0.2656,
+  "g5_score": 0.7489,
+  "af3_plddt": 31.5,
+  "latency_ms": 182.66
+}

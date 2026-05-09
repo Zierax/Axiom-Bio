@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: NusG N-term
+Length: 90 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1790
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5346
+G2 (Energy):        0.2385
+G3 (Structural):    0.4356
+G4 (IDP):           0.2684
+G5 (H-Bond):        0.4525
+
+--- Performance ---
+Latency: 180.2 ms
+Determinism score: 0.1989

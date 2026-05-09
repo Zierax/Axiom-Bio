@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Plastocyanin
+Length: 95 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5764
+G2 (Energy):        0.8319
+G3 (Structural):    0.4879
+G4 (IDP):           0.7916
+G5 (H-Bond):        0.5546
+
+--- Performance ---
+Latency: 139.9 ms
+Determinism score: 0.8132

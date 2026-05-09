@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Beta-Synuclein
+Length: 89 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2053
+Verdict: REJECT
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5823
+G2 (Energy):        0.8534
+G3 (Structural):    0.4784
+G4 (IDP):           0.4469
+G5 (H-Bond):        0.5513
+
+--- Performance ---
+Latency: 168.9 ms
+Determinism score: 0.2281

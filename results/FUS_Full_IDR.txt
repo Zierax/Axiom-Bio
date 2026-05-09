@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: FUS Full IDR
+Length: 163 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.1615
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5081
+G2 (Energy):        0.3827
+G3 (Structural):    0.4018
+G4 (IDP):           0.3936
+G5 (H-Bond):        0.5510
+
+--- Performance ---
+Latency: 305.3 ms
+Determinism score: 0.1794

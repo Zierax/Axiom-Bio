@@ -1,0 +1,18 @@
+{
+  "name": "MAP2 Projection",
+  "length": 89,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.2122,
+  "tci_raw": 0.2663,
+  "bonus": 1.2765,
+  "d_score": 0.2358,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.5477,
+  "g2_score": 0.3111,
+  "g3_score": 0.4272,
+  "g4_score": 0.296,
+  "g5_score": 0.5161,
+  "af3_plddt": 37.4,
+  "latency_ms": 442.46
+}

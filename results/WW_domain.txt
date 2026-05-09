@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: WW domain
+Length: 34 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2845
+Verdict: WEAK
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5644
+G2 (Energy):        0.5308
+G3 (Structural):    0.4633
+G4 (IDP):           0.6360
+G5 (H-Bond):        0.5452
+
+--- Performance ---
+Latency: 46.2 ms
+Determinism score: 0.3161

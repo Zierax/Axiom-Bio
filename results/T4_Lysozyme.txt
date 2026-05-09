@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: T4 Lysozyme
+Length: 164 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9577
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5931
+G2 (Energy):        0.8565
+G3 (Structural):    0.4911
+G4 (IDP):           0.8728
+G5 (H-Bond):        0.5330
+
+--- Performance ---
+Latency: 293.4 ms
+Determinism score: 0.8185

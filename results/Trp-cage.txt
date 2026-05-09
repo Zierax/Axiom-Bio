@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Trp-cage
+Length: 20 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.2187
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5503
+G2 (Energy):        0.5214
+G3 (Structural):    0.4507
+G4 (IDP):           0.4395
+G5 (H-Bond):        0.4819
+
+--- Performance ---
+Latency: 42.3 ms
+Determinism score: 0.2430

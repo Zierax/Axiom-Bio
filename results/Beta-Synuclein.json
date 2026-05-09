@@ -1,0 +1,18 @@
+{
+  "name": "Beta-Synuclein",
+  "length": 89,
+  "is_ordered": false,
+  "verdict": "REJECT",
+  "tci": 0.2053,
+  "tci_raw": 0.4231,
+  "bonus": 1.0885,
+  "d_score": 0.2281,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5823,
+  "g2_score": 0.8534,
+  "g3_score": 0.4784,
+  "g4_score": 0.4469,
+  "g5_score": 0.5513,
+  "af3_plddt": 52.7,
+  "latency_ms": 168.88
+}

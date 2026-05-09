@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: PB1 IDR
+Length: 85 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.0470
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4033
+G2 (Energy):        0.2282
+G3 (Structural):    0.1892
+G4 (IDP):           0.0131
+G5 (H-Bond):        0.0166
+
+--- Performance ---
+Latency: 133.6 ms
+Determinism score: 0.0218

@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: ICaBP
+Length: 76 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: PROBABLE
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5855
+G2 (Energy):        0.7744
+G3 (Structural):    0.4867
+G4 (IDP):           0.7498
+G5 (H-Bond):        0.5454
+
+--- Performance ---
+Latency: 227.5 ms
+Determinism score: 0.8112

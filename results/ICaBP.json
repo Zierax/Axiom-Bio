@@ -1,0 +1,18 @@
+{
+  "name": "ICaBP",
+  "length": 76,
+  "is_ordered": true,
+  "verdict": "PROBABLE",
+  "tci": 0.99,
+  "tci_raw": 0.6344,
+  "bonus": 1.0974,
+  "d_score": 0.8112,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5855,
+  "g2_score": 0.7744,
+  "g3_score": 0.4867,
+  "g4_score": 0.7498,
+  "g5_score": 0.5454,
+  "af3_plddt": 86.3,
+  "latency_ms": 227.47
+}

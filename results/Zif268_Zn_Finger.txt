@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Zif268 Zn Finger
+Length: 56 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.1977
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5276
+G2 (Energy):        0.3937
+G3 (Structural):    0.4451
+G4 (IDP):           0.5293
+G5 (H-Bond):        0.6530
+
+--- Performance ---
+Latency: 78.1 ms
+Determinism score: 0.2197

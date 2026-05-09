@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Pleiotrophin
+Length: 123 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.1973
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5246
+G2 (Energy):        0.2663
+G3 (Structural):    0.5059
+G4 (IDP):           0.2931
+G5 (H-Bond):        0.8760
+
+--- Performance ---
+Latency: 279.5 ms
+Determinism score: 0.2192

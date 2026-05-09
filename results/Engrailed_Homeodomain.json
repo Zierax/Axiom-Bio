@@ -1,0 +1,18 @@
+{
+  "name": "Engrailed Homeodomain",
+  "length": 58,
+  "is_ordered": true,
+  "verdict": "DETERMINISTIC",
+  "tci": 0.9481,
+  "tci_raw": 0.7087,
+  "bonus": 1.0817,
+  "d_score": 0.8558,
+  "best_hypothesis": "beta_sheet",
+  "g1_score": 0.5536,
+  "g2_score": 0.7778,
+  "g3_score": 0.5135,
+  "g4_score": 0.8815,
+  "g5_score": 0.6391,
+  "af3_plddt": 90.5,
+  "latency_ms": 88.14
+}

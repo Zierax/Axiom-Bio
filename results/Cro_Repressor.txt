@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Cro Repressor
+Length: 66 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.9900
+Verdict: DETERMINISTIC
+Best hypothesis: beta_sheet
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5836
+G2 (Energy):        0.8386
+G3 (Structural):    0.5157
+G4 (IDP):           0.7881
+G5 (H-Bond):        0.5486
+
+--- Performance ---
+Latency: 100.9 ms
+Determinism score: 0.8596

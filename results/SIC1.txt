@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: SIC1
+Length: 211 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.2026
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5911
+G2 (Energy):        0.4316
+G3 (Structural):    0.5532
+G4 (IDP):           0.3886
+G5 (H-Bond):        0.5802
+
+--- Performance ---
+Latency: 292.3 ms
+Determinism score: 0.2251

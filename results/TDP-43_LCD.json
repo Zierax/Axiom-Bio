@@ -1,0 +1,18 @@
+{
+  "name": "TDP-43 LCD",
+  "length": 83,
+  "is_ordered": false,
+  "verdict": "WEAK",
+  "tci": 0.2589,
+  "tci_raw": 0.3815,
+  "bonus": 1.3044,
+  "d_score": 0.2877,
+  "best_hypothesis": "disordered",
+  "g1_score": 0.4858,
+  "g2_score": 0.4248,
+  "g3_score": 0.4239,
+  "g4_score": 0.5139,
+  "g5_score": 0.4078,
+  "af3_plddt": 35.8,
+  "latency_ms": 164.23
+}

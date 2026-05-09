@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Chignolin
+Length: 10 residues
+Ground truth: Ordered
+
+--- Verdict ---
+TCI: 0.1929
+Verdict: REJECT
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.4840
+G2 (Energy):        0.2935
+G3 (Structural):    0.4485
+G4 (IDP):           0.5254
+G5 (H-Bond):        0.3884
+
+--- Performance ---
+Latency: 18.8 ms
+Determinism score: 0.2144

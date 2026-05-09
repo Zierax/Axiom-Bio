@@ -1,0 +1,40 @@
+{
+  "test": "T3 \u2014 Confidence Calibration",
+  "ece_axbio": 0.0881,
+  "ece_af3": 0.251,
+  "calibration_bins": [
+    [
+      0.0,
+      0.2,
+      0.1852,
+      27
+    ],
+    [
+      0.2,
+      0.4,
+      0.2692,
+      26
+    ],
+    [
+      0.6,
+      0.8,
+      0.6667,
+      6
+    ],
+    [
+      0.8,
+      1.0,
+      0.8293,
+      41
+    ]
+  ],
+  "bootstrap": {
+    "T_mean": 0.1248,
+    "T_std": 0.0366,
+    "shift_mean": 0.4783,
+    "shift_std": 0.041,
+    "ece_mean": 0.0739,
+    "ece_std": 0.0195
+  },
+  "winner": "Axiom-Bio"
+}

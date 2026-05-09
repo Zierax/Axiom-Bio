@@ -1,0 +1,22 @@
+Axiom-Bio v1 — Sequence Result
+========================================
+
+Name: Prothymosin alpha
+Length: 86 residues
+Ground truth: IDP
+
+--- Verdict ---
+TCI: 0.6749
+Verdict: PROBABLE
+Best hypothesis: disordered
+
+--- Gate Scores ---
+G1 (Ramachandran):  0.5208
+G2 (Energy):        0.6366
+G3 (Structural):    0.4979
+G4 (IDP):           0.4780
+G5 (H-Bond):        0.8042
+
+--- Performance ---
+Latency: 110.8 ms
+Determinism score: 0.7499
