@@ -241,3 +241,8 @@ Public access to run Axiom-Bio on custom sequences will be available soon at **A
 ## License
 
 This repository contains results and benchmarks under the Axiom Public License. See `LICENSE` for details.
+
+---
+
+**Contact & Collaboration:**
+For technical audits or partnerships, please reach out via [GitHub Issues](https://github.com/Zierax/Axiom-Zspace/issues) or contact me directly at `zs.01117875692@gmail.com`.
